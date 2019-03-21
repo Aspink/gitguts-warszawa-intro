@@ -4,9 +4,13 @@ mOJE PIERWSZE REPOZUTORIUM
 
 Nie ma ¿adnych
 
+# Wymagania
+
+NodeJS
+
 #Licencja
 
-MIT
+Apache
 
 ## Autor
 infoShare Academy
