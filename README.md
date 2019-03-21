@@ -2,7 +2,7 @@ mOJE PIERWSZE REPOZUTORIUM
 
 #Wymagania
 
-Nie ma �adnych
+Nie ma żadnych
 
 # Wymagania
 
@@ -14,3 +14,7 @@ Apache to end costam
 
 ## Autor
 To ja
+
+## Koniec
+
+To już ostatnie zadanie
