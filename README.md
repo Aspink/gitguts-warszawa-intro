@@ -10,7 +10,7 @@ NodeJS
 
 #Licencja
 
-Apache
+Apache to end costam
 
 ## Autor
 infoShare Academy
