@@ -1,4 +1,4 @@
-mOJE PIERWSZE REPOZUTORIUM
+﻿mOJE PIERWSZE REPOZUTORIUM
 
 #Wymagania
 
@@ -18,3 +18,7 @@ To ja
 ## Koniec
 
 To już ostatnie zadanie
+
+## Podziękowania
+
+Dziękuję bardzo!
